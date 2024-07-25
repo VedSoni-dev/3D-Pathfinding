@@ -1,4 +1,4 @@
-# 3D-Pathfinding
+# 3D-Pathfinding-and-Collision-Avoidance-for-Multiple-Projectiles
 
 ## Project Overview
 
